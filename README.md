@@ -41,7 +41,7 @@ Crear wallet.
 
 ### Read
 
-Consultar datos.
+Consultar datos almacenados.
 
 ### Update
 
@@ -57,4 +57,3 @@ Eliminar wallet.
 - Rust
 - Anchor
 - TypeScript
-
